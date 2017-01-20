@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="18" viewBox="0 0 17 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebdec2;
+        fill-rule: evenodd;
+        opacity: 0.85;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="0.125" y="0.375" width="16.781" height="16.781" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Search_Icon_copy_3" data-name="Search Icon copy 3" class="cls-1" d="M16.9,6.464a6.167,6.167,0,0,0-12.333,0A6.167,6.167,0,0,0,16.9,6.464Zm-2.13,0a4.037,4.037,0,1,1-4.038-4A4.019,4.019,0,0,1,14.772,6.464ZM1.158,17.157A1.061,1.061,0,0,1,.4,16.848a1.044,1.044,0,0,1,0-1.49L5.913,9.906a1.075,1.075,0,0,1,1.507,0,1.045,1.045,0,0,1,0,1.49L1.91,16.848A1.062,1.062,0,0,1,1.158,17.157Z"/>
+</svg>
